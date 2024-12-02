@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Sudha",
+      "password": "123_456"
+    },
+    {
+      "id": 2,
+      "username": "Pravasha",
+      "password": "456_789"
+    },
+    {
+      "id": 3,
+      "username": "Linus",
+      "password": "789_123"
+    },
+    {
+      "id": 4,
+      "username": "Vijaya",
+      "password": "123_789"
+    },
+    {
+      "username": "Vaishnavi",
+      "password": "2345678",
+      "id": 5
+    },
+    {
+      "username": "Mary",
+      "password": "1234567890",
+      "id": 6
+    },
+    {
+      "username": "Max",
+      "password": "567890",
+      "id": 7
+    }
+  ]
+}

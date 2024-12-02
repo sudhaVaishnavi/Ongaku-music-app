@@ -1,0 +1,60 @@
+{
+  "songs": [
+    {
+      "title": "Taal Se Taal",
+      "singer": "Alka Yagnik, Udit Narayan",
+      "img": "https://i.ytimg.com/vi/rjtUQAz2KsU/maxresdefault.jpg",
+      "url": "https://pagal.com.in/assets/images/products/Taal_Se_Taal_-_Taal_128_Kbps.mp3",
+      "id": 4
+    },
+    {
+      "title": " Moh Moh Ke Dhaage",
+      "singer": "Papon, Anu Malik, Varun Grover",
+      "img": "https://i.ytimg.com/vi/RTLqck2lG4k/maxresdefault.jpg",
+      "url": "https://pagal.com.in/assets/images/products/Moh_Moh_Ke_Dhaage_(Male)_-_Dum_Laga_Ke_Haisha_128_Kbps.mp3",
+      "id": 5
+    },
+    {
+      "title": "Bol Na Halke Halke",
+      "singer": "Shankar Ehsaan Loy",
+      "img": "https://i.ytimg.com/vi/jXwg9l9D51A/maxresdefault.jpg",
+      "url": "https://pagal.com.in/assets/images/products/Bol_Na_Halke_Halke_(Jhoom_Barabar_Jhoom)_128_Kbps.mp3",
+      "id": 6
+    },
+    {
+      "title": "Muskaanein Jhooti Hai",
+      "singer": "Ram Sampath, Suman Sridhar",
+      "img": "https://tse4.mm.bing.net/th?id=OIP.HCxqFDYRT5YEs4p8rQREuAHaD3&pid=Api&P=0&h=180",
+      "url": "https://pagal.com.in/assets/images/products/Muskaanein_Jhooti_Hai_-_Talaash_128_Kbps.mp3",
+      "id": 7
+    },
+    {
+      "title": "Main Agar Kahoon",
+      "singer": "Sonu Nigam, Shreya Ghoshal",
+      "img": "https://tse4.mm.bing.net/th?id=OIP.UDhsv6c4kekszem2HzqUnwHaEK&pid=Api&P=0&h=180",
+      "url": "https://pagal.com.in/assets/images/products/Main_Agar_Kahoon_(Om_Shanti_Om)_128_Kbps.mp3",
+      "id": 8
+    },
+    {
+      "title": "Deewani Mastani",
+      "singer": "Shreya Ghoshal",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.IM7izxweW7fcQuSvMaKKSQHaEK&pid=Api&P=0&h=180",
+      "url": "https://pagal.com.in/assets/images/products/Deewani_Mastani_-_Bajirao_Mastani_128_Kbps.mp3",
+      "id": 9
+    },
+    {
+      "title": "Chikni Chameli",
+      "singer": "Ajay Atul, Shreya Ghoshal",
+      "img": "https://resize.indiatvnews.com/en/resize/oldbucket/715_-/entertainmentbollywood/Katrina_s_Chikn3366.jpg",
+      "url": "https://pagal.com.in/assets/images/products/Chikni_Chameli_(Agneepath).mp3",
+      "id": 10
+    },
+    {
+      "title": "Rakshassi",
+      "singer": "Blaaze, Kailash Kher, Nakash Aziz",
+      "img": "https://pagal.com.in/assets/images/Rakshassi_-_2_0_(Hindi)_128_Kbps.jpeg",
+      "url": "https://pagal.com.in/assets/images/products/Rakshassi_-_2_0_(Hindi)_128_Kbps.mp3",
+      "id": 11
+    }
+  ]
+}
